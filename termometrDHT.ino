@@ -40,7 +40,7 @@ void loop()
 
   
 
-  
+  //serial
     Serial.print(wilgotnosc);
     Serial.print("%RH | ");
     Serial.print(temperatura);
